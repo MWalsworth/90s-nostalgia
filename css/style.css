@@ -93,7 +93,7 @@ div> h1 {
 
 figure {
   width: 22%;
-  display: inline-block;
+  display: block;
   text-align: center;
 }
 
